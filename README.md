@@ -9,7 +9,7 @@
 
 - One of the portfolios I made is on my github! [BlakeGraviettPortfolio](https://blakegraviett.github.io/blakegraviettportfolio/)
 
-- How to reach me **You can reach me @blake.graviett@gmail.com**
+- How to reach me **You can reach me blake.graviett@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
