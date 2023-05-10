@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Blake Graviett</h1>
 <h3 align="center">I am currently a learning software developer from Cape Girardeau Missouri</h3>
 
+<h3>About Me></h3>
+<p></p>
+
 - My Past Education **I attended a year one of the coding and programming course at the Cape Career and Technology Center**
 
 - Other Passions **Along with coding and programming I also partake in graphic design and videography. I am hired by my local high school to help with sports media and other things.**
