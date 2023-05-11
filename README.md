@@ -32,4 +32,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blakegraviett&show_icons=true&locale=en" alt="blakegraviett" /></p>
 
-![coding bakground](https://github.com/blakegraviett/blakegraviett/assets/113914448/ebefad2d-3379-4cfd-88b8-e1963593532d)
