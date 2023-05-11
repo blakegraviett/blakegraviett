@@ -1,4 +1,4 @@
-<img src="![Coding Banner](https://github.com/blakegraviett/blakegraviett/assets/113914448/c921542d-01e4-4d74-8f10-f992e9dd923e)" />
+<img src="![banner](https://github.com/blakegraviett/blakegraviett/assets/113914448/08824edc-a784-4712-9115-e336de59a39d)" />
 
 <h1 align="center">Hi 👋, I'm Blake Graviett</h1>
 <h3 align="center">I am currently a learning software developer from Cape Girardeau Missouri</h3>
@@ -31,3 +31,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blakegraviett&show_icons=true&locale=en&layout=compact" alt="blakegraviett" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blakegraviett&show_icons=true&locale=en" alt="blakegraviett" /></p>
+
