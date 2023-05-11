@@ -1,4 +1,4 @@
-![Coding Banner](https://github.com/blakegraviett/blakegraviett/assets/113914448/44304751-661d-4c44-a0cd-094f22749fb5)
+![Github banner](https://github.com/blakegraviett/blakegraviett/assets/113914448/f05b120d-2bb5-4abd-89a1-f48fd717f783)
 
 <h1 align="center">Hi 👋, I'm Blake Graviett</h1>
 <h3 align="center">I am currently a learning software developer from Cape Girardeau Missouri</h3>
