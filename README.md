@@ -1,4 +1,4 @@
-<img src= "![coding bakground](https://github.com/blakegraviett/blakegraviett/assets/113914448/ebefad2d-3379-4cfd-88b8-e1963593532d)" />
+<img src="![coding bakground](https://github.com/blakegraviett/blakegraviett/assets/113914448/ebefad2d-3379-4cfd-88b8-e1963593532d)" />
 
 <h1 align="center">Hi 👋, I'm Blake Graviett</h1>
 <h3 align="center">I am currently a learning software developer from Cape Girardeau Missouri</h3>
