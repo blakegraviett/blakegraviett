@@ -32,7 +32,7 @@
 
 - ☁️ I've keen interest in AI implentation. So, I'm learning **how to utilze AI in web and mobile applications**
 
-- 💬 Ask me about *My freelance graphic desing work!**
+- 💬 Ask me about **My freelance graphic desing work!**
 
 - 📫 Feel free to reach me out **blake.graviett@gmail.com**
 
