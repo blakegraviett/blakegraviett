@@ -20,7 +20,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">It's not a bug—it's an undocumented feature</h2></summary>
   </ul>
 </div>
 
